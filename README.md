@@ -11,4 +11,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia desde os 14 anos, semp
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
 </div>
