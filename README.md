@@ -1,6 +1,6 @@
 ## Olá! Me chamo Luis. 👋
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia desde os 14 anos, sempre em busca de evolução na área e aplicando inovações.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia desde os 14 anos, sempre em busca de evolução na área e aplicando inovações. No momento, estou me aprofundando em Next.js e Prisma, explorando soluções modernas para desenvolvimento web full stack com foco em performance, escalabilidade e boas práticas.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
